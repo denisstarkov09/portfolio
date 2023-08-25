@@ -20,11 +20,11 @@ export const projects : ProjectTypes[] = [
     },
 
     {
-        title : "DG Team",
-        description : "'Dg team' is an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-Saga, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
+        title : "ChatGPT TOP 10",
+        description : "Discover the best AI writing tools online, including ChatGPT, for powerful and efficient content creation. Boost your writing process with blog ideas generator tool Ai.",
         tech : [ "Next.js", "Tailwind CSS", "Redux", "Node.js" ],
-        live : 'https://dgteam.vercel.app/',
-        thumnail : "dg-team.png",
+        live : 'https://chatgpttop10.com/',
+        thumnail : "chatgpttop10.png",
         featured : true
     },
 
@@ -52,8 +52,8 @@ export const projects : ProjectTypes[] = [
         title : "E-Commerce Site",
         description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
         tech : [ "React.js", "Redux", "Node.js", "Stripe" ],
-        code : 'https://github.com/oleksandrStar',
-        live : 'https://github.com/oleksandrStar',
+        code : 'https://github.com/oleksandrStar/my-ecommer',
+        live : 'https://github.com/oleksandrStar/my-ecommer',
         thumnail : "ecommer.png"
     },
 
