@@ -146,6 +146,15 @@ export const projects : ProjectTypes[] = [
         code : 'https://github.com/oleksandrStar/my-ecommer',
         live : 'https://atem-ecommerce.netlify.app/',
         thumnail : "ecommerce.png"
+    },
+
+    {
+        title : "Gmail Notifier Chrome Extension",
+        description : "I develope the gmail alert chrome extension based on MV3 and in this project, I used Gmail API, React and Typescript. When you receive a new gmail, you can get a alert as full screen modal.",
+        tech : [ "React", "TypeScript", "MV3", "Gmail API" ],
+        code : 'https://github.com/oleksandrStar/gmail-alert-extension',
+        live : 'https://github.com/oleksandrStar/gmail-alert-extension',
+        thumnail : "emailalert.png"
     }
     
 ]
