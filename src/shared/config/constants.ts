@@ -21,7 +21,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "ChatGPT TOP 10",
-        description : "Discover the best AI writing tools online, including ChatGPT, for powerful and efficient content creation. Boost your writing process with blog ideas generator tool Ai.",
+        description : "Discover the best AI writing tools online, including ChatGPT, for powerful and efficient content creation. Boost your writing process with blog ideas generator tool Ai. I used React, Node, GPT-3.5-turbo-16k and Tailwind CSS.",
         tech : [ "Next.js", "Tailwind CSS", "Redux", "Node" ],
         live : 'https://chatgpttop10.com/',
         code: 'https://github.com/oleksandrStar/chatgpttop10',
@@ -31,7 +31,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "Safebear",
-        description : "SafeBear is a cross-platform solution that protects its users from internet toxicity using blockchain technology in the web3",
+        description : "SafeBear is a cross-platform solution that protects its users from internet toxicity using blockchain technology in the web3. I used Sveltekit, Svelte-MUI, Node and Supabase in this project.",
         tech : [ "Sveltekit", "Tailwind CSS", "Web3", "Supabase" ],
         live : 'https://safebear-network.vercel.app/',
         code: 'https://github.com/oleksandrStar/safebear-network',
@@ -41,10 +41,10 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "AI blog Platform",
-        description : "This is an AI blog platform was developed using Next.js, Editor.js, OpenAI, ChatGPT, HyGraph and Cloudinary",
+        description : "This is an AI blog platform was developed using Next.js, Editor.js, OpenAI, ChatGPT, HyGraph and Cloudinary.",
         tech : [ "Next.js", "Editor.js", "ChatGPT", "HyGraph" ],
         live : 'https://ai-blog.com',
-        code: 'https://github.com/oleksandrStar',
+        code: 'https://github.com/oleksandrStar/ai-blog',
         thumnail : "aiblog.png",
         featured : true
     },
@@ -69,7 +69,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "Careerly Chrome Extension",
-        description : "This is a careerly chrome extension to manage the team. You can use this extension to report the progress at a team level to derive insights into your own performance as a menager.",
+        description : "This is a careerly chrome extension to manage the team. In this project, I implemented the multi page popup window using chrome extension router and implemented firebase google auth, taking the screenshot of current tab.",
         tech : [ "React", "Tailwind CSS", "Firebase", "MV3" ],
         live : 'https://chrome.google.com/webstore/detail/careerly/hggmhgodcnehgieapofeakhkogikkhkl/',
         code: 'https://github.com/oleksandrStar/careerly',
@@ -108,7 +108,7 @@ export const projects : ProjectTypes[] = [
         description : "I developed the arbitrage trading bot using the liqudity of Dex such as Uniswap, Pancakeswap and Sushiswap. I developed this project using React, web3.js, ether.js and solidity.",
         tech : [ "React", "Web3", "Ether.js", "Solidity" ],
         live : 'https://arbitrage-trading-bot.netlify.app/',
-        code: 'https://github.com/oleksandrStar/conversational-chatbothttps://github.com/oleksandrStar/tradingbot',
+        code: 'https://github.com/oleksandrStar/tradingbot',
         thumnail : "tradingbot.png"
     },
 
@@ -116,7 +116,7 @@ export const projects : ProjectTypes[] = [
         title : "Facility Management System",
         description : "I developed the Facility Management System using React, Node, D3.j and MongoDB. In this project, I implemented the floorplan using d3.js.",
         tech : [ "React", "Node", "D3.js", "MongoDB" ],
-        live : 'https://github.com/oleksandrStar/facility-management-system',
+        live : 'https://facility-management-system.netlify.app/',
         code: 'https://github.com/oleksandrStar/facility-management-system',
         thumnail : "floorplan.png"
     },
@@ -141,11 +141,11 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "E-Commerce Site",
-        description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
+        description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database. And I implement the multi filter function to find the suitable products quickly.",
         tech : [ "React", "Redux", "Node", "Stripe" ],
         code : 'https://github.com/oleksandrStar/my-ecommer',
         live : 'https://atem-ecommerce.netlify.app/',
-        thumnail : "ecommer.png"
+        thumnail : "ecommerce.png"
     }
     
 ]
