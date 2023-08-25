@@ -21,7 +21,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "DG Team",
-        description : "'Dg team' is an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-thunk, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
+        description : "'Dg team' is an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-Saga, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
         tech : [ "Next.js", "Tailwind CSS", "Redux", "Node.js" ],
         live : 'https://dgteam.vercel.app/',
         thumnail : "dg-team.png",
