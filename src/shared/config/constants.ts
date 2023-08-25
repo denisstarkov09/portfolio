@@ -122,6 +122,15 @@ export const projects : ProjectTypes[] = [
     },
 
     {
+        title : "Sales Sensei",
+        description : "This is a sales assistant chatbot was developed using React, Node.js, Tailwind CSS, Salesforce API and Stripe. I integrated the salesforce API to fetch some business data and implemented the subscription using Stripe.",
+        tech : [ "React.js", "Node.js", "Salesforce", "Stripe" ],
+        code : 'https://github.com/oleksandrStar/sales-sensei',
+        live : 'https://sales-sensei-delta.vercel.app/',
+        thumnail : "salessensei.png"
+    },
+
+    {
         title : "3D Configurator Website",
         description : "I developed the 3D configurator website to emulate the room with colors, materials and so on.",
         tech : [ "React.js", "Three.js", "WebGL", "Tailwind CSS" ],
@@ -137,6 +146,6 @@ export const projects : ProjectTypes[] = [
         code : 'https://github.com/oleksandrStar/my-ecommer',
         live : 'https://atem-ecommerce.netlify.app/',
         thumnail : "ecommer.png"
-    },
+    }
     
 ]
