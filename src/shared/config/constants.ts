@@ -50,15 +50,6 @@ export const projects : ProjectTypes[] = [
     },
 
     {
-        title : "E-Commerce Site",
-        description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
-        tech : [ "React.js", "Redux", "Node.js", "Stripe" ],
-        code : 'https://github.com/oleksandrStar/my-ecommer',
-        live : 'https://atem-ecommerce.netlify.app/',
-        thumnail : "ecommer.png"
-    },
-
-    {
         title : "VenueBoost Reservation & Management Platform",
         description : "I developed the responsive front-end project and I used React, Node.js, Tailwind CSS and integrated the Stripe to implement the subscription. I used Tailwind Grid to develop the responsive layout.",
         tech : [ "React.js", "Redux-thunk", "Node.js", "Stripe" ],
@@ -137,6 +128,15 @@ export const projects : ProjectTypes[] = [
         live : 'https://github.com/oleksandrStar',
         code: 'https://github.com/oleksandrStar',
         thumnail : "3dconf.png"
-    }
+    },
+
+    {
+        title : "E-Commerce Site",
+        description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
+        tech : [ "React.js", "Redux", "Node.js", "Stripe" ],
+        code : 'https://github.com/oleksandrStar/my-ecommer',
+        live : 'https://atem-ecommerce.netlify.app/',
+        thumnail : "ecommer.png"
+    },
     
 ]
