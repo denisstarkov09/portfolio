@@ -32,7 +32,7 @@ const Left = () => {
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
+                  text="Highly motivated and very passionate Full Stack Developer with 7 years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
                   className='text-sm sm:text-lg justify-center lg:justify-start'
                />
             </div>

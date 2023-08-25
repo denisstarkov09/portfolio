@@ -13,7 +13,7 @@ export const projects : ProjectTypes[] = [
         title : "HR SaaS Platform",
         description : "This platform is a community of business and HR leaders, HR practitioners, technologists, entrepreneurs, consultants.",
         tech : [ "React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB" ],
-        code : 'https://github.com/oleksandrStar',
+        code : 'https://github.com/oleksandrStar/hackinghrlab-fr',
         live : 'https://www.hackinghrlab.io/home',
         thumnail : "HR.png",
         featured : true
