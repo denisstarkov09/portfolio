@@ -12,7 +12,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "HR SaaS Platform",
         description : "This platform is a community of business and HR leaders, HR practitioners, technologists, entrepreneurs, consultants. In this project, I used React, Node.js, Tailwind CSS and WebRTC. And I implemented the video streaming using WebRTC and Socket.io.",
-        tech : [ "React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB" ],
+        tech : [ "React", "Tailwind CSS", "Node", "Express.js", "MongoDB" ],
         code : 'https://github.com/oleksandrStar/hackinghrlab-fr',
         live : 'https://www.hackinghrlab.io/home',
         thumnail : "HR.png",
@@ -22,7 +22,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "ChatGPT TOP 10",
         description : "Discover the best AI writing tools online, including ChatGPT, for powerful and efficient content creation. Boost your writing process with blog ideas generator tool Ai.",
-        tech : [ "Next.js", "Tailwind CSS", "Redux", "Node.js" ],
+        tech : [ "Next.js", "Tailwind CSS", "Redux", "Node" ],
         live : 'https://chatgpttop10.com/',
         code: 'https://github.com/oleksandrStar/chatgpttop10',
         thumnail : "chatgpttop10.png",
@@ -52,7 +52,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "VenueBoost Reservation & Management Platform",
         description : "I developed the responsive front-end project and I used React, Node.js, Tailwind CSS and integrated the Stripe to implement the subscription. I used Tailwind Grid to develop the responsive layout.",
-        tech : [ "React.js", "Redux-thunk", "Node.js", "Stripe" ],
+        tech : [ "React", "Redux-thunk", "Node", "Stripe" ],
         code : 'https://github.com/oleksandrStar/VenueBoost',
         live : 'https://venueboost.io/',
         thumnail : "venueboost.png"
@@ -61,7 +61,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Careerly Web App",
         description : "This is a careerly web app to manage the team. You can use this app to get reports at a team level to derive insights into your own performance as a menager.",
-        tech : [ "React.js", "Tailwind CSS", "Node.js", "Firebase" ],
+        tech : [ "React", "Node", "Tailwind CSS", "Firebase" ],
         live : 'https://www.careerly.app/',
         code: "https://github.com/oleksandrStar/careerly",
         thumnail : "careerlyweb.png"
@@ -70,7 +70,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Careerly Chrome Extension",
         description : "This is a careerly chrome extension to manage the team. You can use this extension to report the progress at a team level to derive insights into your own performance as a menager.",
-        tech : [ "React.js", "Tailwind CSS", "Firebase", "MV3" ],
+        tech : [ "React", "Tailwind CSS", "Firebase", "MV3" ],
         live : 'https://chrome.google.com/webstore/detail/careerly/hggmhgodcnehgieapofeakhkogikkhkl/',
         code: 'https://github.com/oleksandrStar/careerly',
         thumnail : "careerlycextension.png"
@@ -79,7 +79,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Elixr Landing Page",
         description : "This is a landing page project was developed using GSAP, React and Tailwind CSS. I implemented the 3D animation, text animation and scroll animation using GSAP.",
-        tech : [ "GSAP", "React.js", "Tailwind CSS" ],
+        tech : [ "GSAP", "React", "Tailwind CSS" ],
         live : 'https://www.elixr.earth/',
         code: "https://github.com/oleksandrStar/elixr-webgl",
         thumnail : "elixr.png"
@@ -88,7 +88,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Next Generation ChatGPT",
         description : "I developed the next generation ChatGPT app using Next.js and ChatGPT API. In this project, I wrote some pre-defined prompts to help users. And I provide various OpenAI APIs to implement the tokens as much as possible.",
-        tech : [ "Next.js", "React.js", "ChatGPT", "OpenAI" ],
+        tech : [ "Next.js", "React", "ChatGPT", "OpenAI" ],
         live : 'https://next-chatbot-rouge.vercel.app/',
         code: 'https://github.com/oleksandrStar/next-chatbot',
         thumnail : "chatbot.png"
@@ -115,7 +115,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Facility Management System",
         description : "I developed the Facility Management System using React, Node, D3.j and MongoDB. In this project, I implemented the floorplan using d3.js.",
-        tech : [ "React.js", "Node.js", "D3.js", "MongoDB" ],
+        tech : [ "React", "Node", "D3.js", "MongoDB" ],
         live : 'https://github.com/oleksandrStar/facility-management-system',
         code: 'https://github.com/oleksandrStar/facility-management-system',
         thumnail : "floorplan.png"
@@ -124,7 +124,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Sales Sensei",
         description : "This is a sales assistant chatbot was developed using React, Node.js, Tailwind CSS, Salesforce API and Stripe. I integrated the salesforce API to fetch some business data and implemented the subscription using Stripe.",
-        tech : [ "React.js", "Node.js", "Salesforce", "Stripe" ],
+        tech : [ "React", "Node", "Salesforce", "Stripe" ],
         code : 'https://github.com/oleksandrStar/sales-sensei',
         live : 'https://sales-sensei-delta.vercel.app/',
         thumnail : "salessensei.png"
@@ -133,7 +133,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "3D Configurator Website",
         description : "I developed the 3D configurator website to emulate the room with colors, materials and so on.",
-        tech : [ "React.js", "Three.js", "WebGL", "Tailwind CSS" ],
+        tech : [ "React", "Three.js", "WebGL", "Tailwind CSS" ],
         live : 'https://github.com/oleksandrStar',
         code: 'https://github.com/oleksandrStar',
         thumnail : "3dconf.png"
@@ -142,7 +142,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "E-Commerce Site",
         description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
-        tech : [ "React.js", "Redux", "Node.js", "Stripe" ],
+        tech : [ "React", "Redux", "Node", "Stripe" ],
         code : 'https://github.com/oleksandrStar/my-ecommer',
         live : 'https://atem-ecommerce.netlify.app/',
         thumnail : "ecommer.png"
