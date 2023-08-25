@@ -115,7 +115,7 @@ export const projects : ProjectTypes[] = [
     {
         title : "Facility Management System",
         description : "I developed the Facility Management System using React, Node, D3.j and MongoDB. In this project, I implemented the floorplan using d3.js.",
-        tech : [ "React.js", "Tailwind CSS", "Firebase", "MV3" ],
+        tech : [ "React.js", "Node.js", "D3.js", "MongoDB" ],
         live : 'https://github.com/oleksandrStar/facility-management-system',
         code: 'https://github.com/oleksandrStar/facility-management-system',
         thumnail : "floorplan.png"
