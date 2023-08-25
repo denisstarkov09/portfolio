@@ -41,8 +41,8 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "AI blog Platform",
-        description : "This is an AI blog platform was developed using Next.js, Editor.js, OpenAI, ChatGPT, HyGraph and Cloudinary.",
-        tech : [ "Next.js", "Editor.js", "ChatGPT", "HyGraph" ],
+        description : "This is an AI blog platform was developed using Next.js, Editor.js, OpenAI, ChatGPT, HyGraph and Cloudinary. In this project, I generated the blog content as JSON to match Editor.js using GPT-3.5-turbo.",
+        tech : [ "Next.js", "Editor.js", "ChatGPT", "HyGraph", "GPT-3.5" ],
         live : 'https://ai-blog.com',
         code: 'https://github.com/oleksandrStar/ai-blog',
         thumnail : "aiblog.png",
