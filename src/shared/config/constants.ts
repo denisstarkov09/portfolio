@@ -24,6 +24,7 @@ export const projects : ProjectTypes[] = [
         description : "Discover the best AI writing tools online, including ChatGPT, for powerful and efficient content creation. Boost your writing process with blog ideas generator tool Ai.",
         tech : [ "Next.js", "Tailwind CSS", "Redux", "Node.js" ],
         live : 'https://chatgpttop10.com/',
+        code: 'https://github.com/oleksandrStar/chatgpttop10',
         thumnail : "chatgpttop10.png",
         featured : true
     },
@@ -32,7 +33,7 @@ export const projects : ProjectTypes[] = [
         title : "Safebear",
         description : "SafeBear is a cross-platform solution that protects its users from internet toxicity using blockchain technology in the web3",
         tech : [ "Sveltekit", "Tailwind CSS", "Web3", "Supabase" ],
-        live : 'https://www.safebear.com',
+        live : 'https://safebear-network.vercel.app/',
         code: 'https://github.com/oleksandrStar/safebear-network',
         thumnail : "safebear.png",
         featured : true
@@ -53,7 +54,7 @@ export const projects : ProjectTypes[] = [
         description : "This is an e-commerce platform was developed using React and Node.js. In this project, I used MongoDB for a database.",
         tech : [ "React.js", "Redux", "Node.js", "Stripe" ],
         code : 'https://github.com/oleksandrStar/my-ecommer',
-        live : 'https://github.com/oleksandrStar/my-ecommer',
+        live : 'https://atem-ecommerce.netlify.app/',
         thumnail : "ecommer.png"
     },
 
@@ -100,5 +101,23 @@ export const projects : ProjectTypes[] = [
         live : 'https://github.com/oleksandrStar',
         code: 'https://github.com/oleksandrStar',
         thumnail : "3dconf.png"
+    },
+
+    {
+        title : "Next Generation ChatGPT",
+        description : "I developed the next generation ChatGPT app using Next.js and ChatGPT API. In this project, I wrote some pre-defined prompts to help users. And I provide various OpenAI APIs to implement the tokens as much as possible.",
+        tech : [ "Next.js", "React.js", "ChatGPT", "OpenAI" ],
+        live : 'https://next-chatbot-rouge.vercel.app/',
+        code: 'https://github.com/oleksandrStar/next-chatbot',
+        thumnail : "chatbot.png"
+    },
+
+    {
+        title : "Conversational AI Chatbot",
+        description : "I developed the conversational AI chatbot using React, ElevenLabs, three.js and ChatGPT. In this project, I implemented the text-to-speech using ElevenLabs API and used lip sync library to develop the conversational chatbot.",
+        tech : [ "React", "ElevenLabs", "Three.js", "ChatGPT" ],
+        live : 'https://threejs-animate-chatbot.netlify.app/',
+        code: 'https://github.com/oleksandrStar/conversational-chatbot',
+        thumnail : "conversationalbot.png"
     }
 ]
