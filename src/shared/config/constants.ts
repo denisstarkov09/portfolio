@@ -86,24 +86,6 @@ export const projects : ProjectTypes[] = [
     },
 
     {
-        title : "Facility Management System",
-        description : "I developed the Facility Management System using React, Node, D3.j and MongoDB. In this project, I implemented the floorplan using d3.js.",
-        tech : [ "React.js", "Tailwind CSS", "Firebase", "MV3" ],
-        live : 'https://github.com/oleksandrStar/facility-management-system',
-        code: 'https://github.com/oleksandrStar/facility-management-system',
-        thumnail : "floorplan.png"
-    },
-
-    {
-        title : "3D Configurator Website",
-        description : "I developed the 3D configurator website to emulate the room with colors, materials and so on.",
-        tech : [ "React.js", "Three.js", "WebGL", "Tailwind CSS" ],
-        live : 'https://github.com/oleksandrStar',
-        code: 'https://github.com/oleksandrStar',
-        thumnail : "3dconf.png"
-    },
-
-    {
         title : "Next Generation ChatGPT",
         description : "I developed the next generation ChatGPT app using Next.js and ChatGPT API. In this project, I wrote some pre-defined prompts to help users. And I provide various OpenAI APIs to implement the tokens as much as possible.",
         tech : [ "Next.js", "React.js", "ChatGPT", "OpenAI" ],
@@ -119,5 +101,33 @@ export const projects : ProjectTypes[] = [
         live : 'https://threejs-animate-chatbot.netlify.app/',
         code: 'https://github.com/oleksandrStar/conversational-chatbot',
         thumnail : "conversationalbot.png"
+    },
+    
+    {
+        title : "Arbitrage Trading Bot",
+        description : "I developed the arbitrage trading bot using the liqudity of Dex such as Uniswap, Pancakeswap and Sushiswap. I developed this project using React, web3.js, ether.js and solidity.",
+        tech : [ "React", "Web3", "Ether.js", "Solidity" ],
+        live : 'https://arbitrage-trading-bot.netlify.app/',
+        code: 'https://github.com/oleksandrStar/conversational-chatbothttps://github.com/oleksandrStar/tradingbot',
+        thumnail : "tradingbot.png"
+    },
+
+    {
+        title : "Facility Management System",
+        description : "I developed the Facility Management System using React, Node, D3.j and MongoDB. In this project, I implemented the floorplan using d3.js.",
+        tech : [ "React.js", "Tailwind CSS", "Firebase", "MV3" ],
+        live : 'https://github.com/oleksandrStar/facility-management-system',
+        code: 'https://github.com/oleksandrStar/facility-management-system',
+        thumnail : "floorplan.png"
+    },
+
+    {
+        title : "3D Configurator Website",
+        description : "I developed the 3D configurator website to emulate the room with colors, materials and so on.",
+        tech : [ "React.js", "Three.js", "WebGL", "Tailwind CSS" ],
+        live : 'https://github.com/oleksandrStar',
+        code: 'https://github.com/oleksandrStar',
+        thumnail : "3dconf.png"
     }
+    
 ]
