@@ -11,7 +11,7 @@ export const navData = [ "About", "Experience", "Works", "Contact" ]
 export const projects : ProjectTypes[] = [
     {
         title : "HR SaaS Platform",
-        description : "This platform is a community of business and HR leaders, HR practitioners, technologists, entrepreneurs, consultants.",
+        description : "This platform is a community of business and HR leaders, HR practitioners, technologists, entrepreneurs, consultants. In this project, I used React, Node.js, Tailwind CSS and WebRTC. And I implemented the video streaming using WebRTC and Socket.io.",
         tech : [ "React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB" ],
         code : 'https://github.com/oleksandrStar/hackinghrlab-fr',
         live : 'https://www.hackinghrlab.io/home',
@@ -56,6 +56,15 @@ export const projects : ProjectTypes[] = [
         code : 'https://github.com/oleksandrStar/my-ecommer',
         live : 'https://atem-ecommerce.netlify.app/',
         thumnail : "ecommer.png"
+    },
+
+    {
+        title : "VenueBoost Reservation & Management Platform",
+        description : "I developed the responsive front-end project and I used React, Node.js, Tailwind CSS and integrated the Stripe to implement the subscription. I used Tailwind Grid to develop the responsive layout.",
+        tech : [ "React.js", "Redux-thunk", "Node.js", "Stripe" ],
+        code : 'https://github.com/oleksandrStar/VenueBoost',
+        live : 'https://venueboost.io/',
+        thumnail : "venueboost.png"
     },
 
     {
